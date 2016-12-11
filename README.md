@@ -1,3 +1,3 @@
 # hello-world
-Learning Github
+Learning Github. 
 My name is Danjil. This is my first time using it.
